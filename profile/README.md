@@ -8,6 +8,11 @@
 
 ⚡Пишем на .NET7 и Blazor Server. Сейчас мы активно работаем над релизом MVP версии нашей платформы и хотим усилить отдел разработки.
 
+📰 Следить за новостями можно в нашем [телеграмм-канале](https://t.me/CTMproject).
+
 Если тебе интересны финтех область, алготрейдинг, инвестиции свяжить с нами через [телеграмм](https://t.me/vmedvedevpro). Мы будем рады обсудить возможности сотрудничества.
 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
+
 ![](https://komarev.com/ghpvc/?username=Cyber-Trading-Machines&color=6D93DA)
+
